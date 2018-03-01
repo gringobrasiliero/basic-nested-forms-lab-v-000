@@ -26,5 +26,5 @@ private
         :quantity,
       ]
     )
-  
+
 end
